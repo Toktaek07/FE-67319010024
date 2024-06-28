@@ -1,0 +1,25 @@
+.input1{
+    background-color: aqua;
+    font: size 45px; 
+}
+.password{
+    background-color: yellowgreen;
+    font: size 45px;
+}
+.number{
+    background-color: rgb(155, 108, 108);
+    font: size 45px;  
+}
+.dateofbirth{
+    background-color: rgb(98, 158, 92);
+    font: size 45px; 
+}
+.name{
+    background-color: blueviolet;
+}
+.input2{
+    background-color: royalblue;
+}
+.input3{
+    background-color: rgb(187, 37, 129);
+}
